@@ -2,11 +2,6 @@
 export const FourthComponent = () => {
 
   const handleClicked = (e, name) => {
-    alert("Has hecho 
-
-export const FourthComponent = () => {
-
-  const handleClicked = (e, name) => {
     alert("Has hecho click en el botón " + name);
   }
 
@@ -78,6 +73,4 @@ export const FourthComponent = () => {
       </div>
     </div>
   )
-}
-
 }
